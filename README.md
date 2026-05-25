@@ -1,16 +1,23 @@
-## Hi there 👋
+# Obaida Aljjarrah — Flutter Developer
 
-<!--
-**obaida20270/obaida20270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fachinformatiker Anwendungsentwicklung (IHK 2025) aus Kassel.
+Ich entwickle mobile Apps mit Flutter & Dart — mit Fokus auf
+saubere Architektur, wartbaren Code und echte Nutzererfahrung.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Mobile:** Flutter, Dart
+- **State Management:** Riverpod, Provider, BLoC (Grundlagen)
+- **Backend / Cloud:** Firebase, Firestore, Firebase Auth
+- **Architektur:** Clean Architecture, Feature-based Structure
+- **Tools:** Git, GitHub, Postman, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aktuelles Projekt
+### [FaceIt — Accountability Tracker](https://github.com/obaida20270/face_it)
+Flutter-App für tägliche Selbstreflexion mit 21-Tage Streak-System,
+Riverpod State Management und Firebase/Firestore Backend.
+
+## Sprachen
+🇩🇪 Deutsch (C1) · 🇬🇧 Englisch (B2) · 🇸🇦 Arabisch (Muttersprache)
+
+## Kontakt
+📧 obaidaxt@gmail.com
